@@ -41,5 +41,12 @@ description: A photo essay by Leia and Matilda
         <p>Matilda and Leia rest after a hard day of napping.</p>
       </div>
     </article>
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170306_leia_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170306_leia_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Introducing The Fuzzy Ladies</h2>
+        <p>Meet Leia and Matilda.</p>
+      </div>
+    </article>
   </div>
 </section>
