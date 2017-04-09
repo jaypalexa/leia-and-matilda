@@ -3692,7 +3692,7 @@
 		#header.alt {
 			background-color: transparent;
 			font-size: 1.25em;
-			padding: 1em 2em;
+			padding: .65em 2em;
 			position: absolute;
 		}
 
@@ -3889,7 +3889,7 @@
 		}
 
 		#banner a {
-			color: #51BAA4;
+			color: #000;
 		}
 
 		#banner strong, #banner b {
@@ -4001,7 +4001,7 @@
 
 		#banner h2 {
 			font-size: 2.5em;
-			margin: 0 0 0.5em 0;
+			margin: 0 0 0 0;
 			padding: 0;
 		}
 
