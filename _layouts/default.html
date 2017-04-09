@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Leia and Matilda{% if page.title != 'Home' %}&nbsp;&bull;&nbsp;{{ page.title }}{% endif %}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css" />
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/ie8.css" />
+    <![endif]-->
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/ie9.css" />
+    <![endif]-->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  </head>
+  <body class="landing">
+    <!-- Header -->
+    <header id="header" class="alt">
+      <h1><a href="{{ site.url }}{{ site.baseurl }}/">Tort <strong>and</strong> Joie</a></h1>
+      <a href="#nav">Menu</a>
+    </header>
+    <!-- Nav -->
+    <nav id="nav">
+      <ul class="links">
+        <li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/about-us.html">About Us</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/pages/videos.html">Videos</a></li>
+      </ul>
+    </nav>
+    <!-- Banner -->
+    <section id="banner">
+      <div class="inner">
+        <!--<i class="icon fa-diamond"></i>-->
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sea_turtle_outline.png" />
+        <h2>Fuzzy Ladies</h2>
+        {% if page.title == 'Home' %}
+          <ul class="actions">
+            <li><a href="#one" class="button big special">Continue</a></li>
+          </ul>
+        {% endif %}
+      </div>
+    </section>
+    <div class="container">
+      {{ content }}
+    </div>
+    <!-- Footer -->
+    <footer id="footer">
+      <div class="inner">
+        <ul class="copyright">
+          <li>Copyright &copy; 2017 Leia and Matilda</li>
+          <li><a href="https://github.com/jaypalexa/leia-and-matilda" target="_blank">GitHub</a></li>
+        </ul>
+      </div>
+    </footer>
+    <!-- Scripts -->
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/skel.min.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
+  </body>
+</html>
