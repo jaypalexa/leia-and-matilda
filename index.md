@@ -7,13 +7,10 @@ description: A photo essay by Leia and Matilda
 <section id="one" class="wrapper style1">
   <div class="inner">
     <article class="feature left">
-      <span class="image"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/tort_and_joie_helping_the_elderly.jpg" /></span>
+      <span class="image"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170408_1808_leia.jpg" /></span>
       <div class="content">
-        <h2>Helping The Elderly And Terminally Ill...And Their Pets</h2>
-        <p><strong>Tort writes:</strong> Thanks to your fireage finding efforts, another milestone has been reached. We have donated $100.00 to <a href="http://www.cinnamon.org.uk/">The Cinnamon Trust</a> – the National Charity for the elderly, terminally ill and their pets.</p>
-        <p>Cinnamon Trust is the only specialist national charity which seeks to relieve the anxieties, problems, and sometimes injustices, faced by elderly and terminally ill people and their pets, thereby saving a great deal of human sadness and animal suffering.</p>
-        <p>Who are your constant companions?</p>
-        <p>P. S.  FIRE THE FIREAGE!!!</p>
+        <h2>Leia Claims The Bed</h2>
+        <p>Leia wasted no time in establishing which bed was hers.</p>
       </div>
     </article>
     <article class="feature right">
