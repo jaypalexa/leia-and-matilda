@@ -52,7 +52,7 @@ description: A photo essay by Leia and Matilda
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170306_leia_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170306_leia_matilda.jpg" /></a></span>
       <div class="content">
         <h2>Meet The Fuzzy Ladies</h2>
-        <p>Introducing Leia and Matilda, 18-year-old litter mates starting.</p>
+        <p>Introducing Leia and Matilda, 18-year-old litter mates starting a new chapter.</p>
       </div>
     </article>
   </div>
