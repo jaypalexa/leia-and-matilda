@@ -17,7 +17,7 @@ description: A photo essay by Leia and Matilda
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170408_1808_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170408_1808_leia.jpg" /></a></span>
       <div class="content">
         <h2>Leia Claims The Bed</h2>
-        <p>Leia wastes no time in establishing which bed is hers.</p>
+        <p>Leia wastes no time establishing which bed is hers.</p>
       </div>
     </article>
     <article class="feature right">
