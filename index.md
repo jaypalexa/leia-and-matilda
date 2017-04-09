@@ -10,19 +10,14 @@ description: A photo essay by Leia and Matilda
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170408_1808_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170408_1808_leia.jpg" /></a></span>
       <div class="content">
         <h2>Leia Claims The Bed</h2>
-        <p>Leia wasted no time in establishing which bed was hers.</p>
+        <p>Leia wastes no time in establishing which bed is hers.</p>
       </div>
     </article>
     <article class="feature right">
-      <span class="image"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/tort_and_joie_seven_continents_for_two_turtles.jpg" /></span>
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170408_1009_leia_matilda_pre_xfer_nap.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170408_1009_leia_matilda_pre_xfer_nap.jpg" /></a></span>
       <div class="content">
-        <h2>Seven Continents For Two Turtles</h2>
-        <p><strong>Tort writes:</strong> Joie and I accompanied Mommy and Daddy on their trip to Patagonia and Antarctica.</p>
-        <p>We saw many cool things and made a few new friends.</p>
-        <p>Eric made us wear toques.</p>
-        <p>We have been on all seven continents.  Now we can just nap.</p>
-        <p>What’s on your bucket list?</p>
-        <p>P. S.  FIRE THE FIREAGE!!!</p>
+        <h2>A Pre-Transfer Nap</h2>
+        <p>Poor gals don't know what is about to happen. Matilda did not enjoy the ride over at all. Poor thing. :-(</p>
       </div>
     </article>
     <article class="feature left">
