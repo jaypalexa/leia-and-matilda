@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170410_1108_leia_mug.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170410_1108_leia_mug.jpg" /></a></span>
+      <div class="content">
+        <h2>Mug Shot</h2>
+        <p>Kelly had informed us that the girls prefer to drink water out of mugs rather than bowls. We have placed a few in strategic locations.</p>
+		<p>Here Leia patriotically quenches a post-nap thrist using the mug by the bathtub.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170409_0924_matilda_stairs.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170409_0924_matilda_stairs.jpg" /></a></span>
       <div class="content">
