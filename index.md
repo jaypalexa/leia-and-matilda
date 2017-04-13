@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170412_1254_leai_matilda_cave.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170412_1254_leai_matilda_cave.jpg" /></a></span>
+      <div class="content">
+        <h2>Cat Cave</h2>
+        <p>After being ignored in a couple of previous locations, the cat nests are now occupied nearly full time in their new position underneath the main bed.</p>
+		<p>Leia and Matilda spend large portions of the day there. Every couple of hours or so they will prowl out, nibble on a kibble, have a long drink, use the litter tray...and then it is back to the cat cave.</p>
+		<p>Sometimes they change which nest they sleep in. Odd.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170410_1108_leia_mug.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170410_1108_leia_mug.jpg" /></a></span>
       <div class="content">
