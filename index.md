@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1342_matilda_tin.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1342_matilda_tin.jpg" /></a></span>
+      <div class="content">
+        <h2>Straight From The Tin</h2>
+        <p>Positive karma was drained the other day when I had to pin down Matilda to brush some dried poo from her bum area.</p>
+		<p>In an effort to replenish some good will, I enticed Matilda to eat directly out of the tin.</p>
+		<p>Not sure we are 100% back, but she seemed to think it a tasty treat.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170412_1254_leai_matilda_cave.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170412_1254_leai_matilda_cave.jpg" /></a></span>
       <div class="content">
