@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1227_leia_ribbon.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1227_leia_ribbon.jpg" /></a></span>
+      <div class="content">
+        <h2>Red Ribbon Day</h2>
+        <p>Leia acting as if she is 18 months old rather than 18 years old.</p>
+		<p>Matilda has been enjoying a bit of the ribbon game, too, but I have not yet been able to capture her cuteness on film.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1342_matilda_tin.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1342_matilda_tin.jpg" /></a></span>
       <div class="content">
