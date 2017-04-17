@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170415_1127_matilda_milk.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170415_1127_matilda_milk.jpg" /></a></span>
+      <div class="content">
+        <h2>Milk Maid Matilda</h2>
+        <p>Our other cats really enjoyed Whiskas cat milk, so we asked Kelly if we should put some out for the fuzzy ladies. She said it would be okay, mentioning that Matilda especially likes it.</p>
+		<p>As you can see, Matilda concurs.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1227_leia_ribbon.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170413_1227_leia_ribbon.jpg" /></a></span>
       <div class="content">
