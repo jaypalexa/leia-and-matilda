@@ -45,7 +45,7 @@ description: A photo essay by Leia and Matilda
       <div class="content">
         <h2>Mug Shot</h2>
         <p>Kelly had informed us that the girls prefer to drink water out of mugs rather than bowls. We have placed a few in strategic locations.</p>
-		<p>Here Leia patriotically quenches a post-nap thrist using the mug by the bathtub.</p>
+		<p>Here Leia patriotically quenches a post-nap thirst using the mug by the bathtub.</p>
       </div>
     </article>
     <article class="feature right">
