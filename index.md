@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170416_1000_leia_suena.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170416_1000_leia_suena.jpg" /></a></span>
+      <div class="content">
+        <h2>Mi Gata Sueña</h2>
+        <p>Leia dozed off on the job as Spanish tutor.</p>
+		<p>Lucky for me that Duolingo can sense the situation.</p>
+		<p>The translation is "My cat dreams."</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170415_1127_matilda_milk.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170415_1127_matilda_milk.jpg" /></a></span>
       <div class="content">
