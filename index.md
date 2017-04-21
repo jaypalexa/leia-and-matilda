@@ -10,7 +10,7 @@ description: A photo essay by Leia and Matilda
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170419_1411_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170419_1411_matilda.jpg" /></a></span>
       <div class="content">
         <h2>Much More Matilda</h2>
-        <p>Into the second week of The Big Remohing, and we have seen so much more of Matilda.</p>
+        <p>Into the second week of The Big Rehoming, and we have seen so much more of Matilda.</p>
 		<p>After a tentative start, Matilda now roams and interacts with confidence. Here she is soaking in a little springtime sun and checking out the passersby.</p>
 		<p>We discover more about each cat daily as they slowly reveal their personalities. Great fun, much joy!</p>
       </div>
