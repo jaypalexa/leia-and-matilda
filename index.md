@@ -6,6 +6,16 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170421_1313_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170421_1313_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>The Cat Is Out Of The Bag</h2>
+        <p>Or rather, "The cat is <strong>in</strong> the bag."</p>
+		<p>These cat toys have been sitting on the floor in the same place for a fortnight, ignored by both cats.</p>
+		<p>One afternoon, out of the blue, Leia decides she is very interested.</p>
+		<p>Her selection?  String monkey with bells.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170419_1411_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170419_1411_matilda.jpg" /></a></span>
       <div class="content">
