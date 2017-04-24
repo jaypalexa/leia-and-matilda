@@ -12,8 +12,7 @@ description: A photo essay by Leia and Matilda
         <h2>The Cat Is Out Of The Bag</h2>
         <p>Or rather, "The cat is <strong>in</strong> the bag."</p>
 		<p>These cat toys have been sitting on the floor in the same place for a fortnight, ignored by both cats.</p>
-		<p>One afternoon, out of the blue, Leia decides she is very interested.</p>
-		<p>Her selection?  String monkey with bells.</p>
+		<p>One afternoon, out of the blue, Leia decides she is very interested. Her selection?  String monkey with bells.</p>
       </div>
     </article>
     <article class="feature left">
