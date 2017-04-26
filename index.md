@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170421_1433_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170421_1433_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>The Lap Of Luxury</h2>
+        <p>I would hazard a guess that Matilda is feeling much more comfortable around us.</p>
+		<p>Here she takes a short break from begging for food and seems content with a few strokes.</p>
+		<p>So nice to have a lap kitty again!</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170421_1313_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170421_1313_leia.jpg" /></a></span>
       <div class="content">
