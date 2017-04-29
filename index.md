@@ -9,7 +9,7 @@ description: A photo essay by Leia and Matilda
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170429_1113_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170429_1113_leia.jpg" /></a></span>
       <div class="content">
-        <h2>Noo Too Fussed</h2>
+        <h2>Not Too Fussed</h2>
         <p>Both ladies have settled in very well, even with the construction next door (they do not seem to be able to hear much of it).</p>
 		<p>We embark on a fortnight-long out-of-country trip tomorrow, and we had some anxiety about leaving the cats.</p>
 		<p>However, as you can see, Leia does not seem to be too fussed about most things.</p>
