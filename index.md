@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1131_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1131_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Matilda Out Back</h2>
+        <p>We had a few sunny days in London before we left for our trip, so we chaperoned the cats out to the back garden (okay, back patio).</p>
+		<p>Both cats liked to sniff around, but Matilda seems the more interested of the two.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170429_1113_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170429_1113_leia.jpg" /></a></span>
       <div class="content">
