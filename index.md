@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170508_0824_two_tails.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170508_0824_two_tails.jpg" /></a></span>
+      <div class="content">
+        <h2>A Tail Of Two Kitties</h2>
+        <p>One of the joys of Leia and Matilda is discovering the similaries and differences of the two cats.</p>
+		<p>Leia (above) stopped slapping her tail long enough for me snap a quick picture.</p>
+		<p>Matilda (below) also has a white tip, though not as pronounced.  Similar, but different.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1131_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1131_matilda.jpg" /></a></span>
       <div class="content">
