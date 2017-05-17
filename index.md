@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1445_leia_belly_rub.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1445_leia_belly_rub.jpg" /></a></span>
+      <div class="content">
+        <h2>Who Likes Belly Rubs?</h2>
+        <p>Is it Leia?</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170508_0824_two_tails.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170508_0824_two_tails.jpg" /></a></span>
       <div class="content">
