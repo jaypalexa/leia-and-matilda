@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170514_1454_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170514_1454_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Sun Kitty</h2>
+        <p>The weather has been unsettled as of late, but Matilda made the most of one of the sunny spells.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1445_leia_belly_rub.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170423_1445_leia_belly_rub.jpg" /></a></span>
       <div class="content">
