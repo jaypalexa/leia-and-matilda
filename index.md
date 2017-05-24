@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170522_1033_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170522_1033_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>Sun Kitty Redux</h2>
+        <p>Leia also got a bit of a sun nap this week. The girls are really enjoying the back patio.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170514_1454_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170514_1454_matilda.jpg" /></a></span>
       <div class="content">
