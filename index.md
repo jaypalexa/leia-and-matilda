@@ -11,7 +11,7 @@ description: A photo essay by Leia and Matilda
       <div class="content">
         <h2>Matilda In The Morning</h2>
         <p>I think it is safe to say that Matilda has settled in.</p>
-		<p>Tracy gets ready in the back bedroom in the mornings. It is now part of her routine to oblige Matilda with a wake-up belly rub.</p>
+		<p>Tracy gets ready for work in the back bedroom. It is now part of her morning routine to oblige Matilda with a wake-up belly rub.</p>
       </div>
     </article>
     <article class="feature left">
