@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170522_0935_leia_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170522_0935_leia_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Rise And Snack</h2>
+        <p>Work day, weekend, bank holiday...it does not matter.</p>
+		<p>When the ladies want their brekkies (and, hey, is it too early for pre-elevensies?), they want their brekkies.</p>
+		<p>Then the cheeky little monkeys toddle back to their nests for a nap. Must be nice.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170525_0739_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170525_0739_matilda.jpg" /></a></span>
       <div class="content">
