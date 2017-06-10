@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170610_0932_matilda_fan.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170610_0932_matilda_fan.jpg" /></a></span>
+      <div class="content">
+        <h2>Tracy's Biggest Fan</h2>
+        <p>Get it?</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170522_0935_leia_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170522_0935_leia_matilda.jpg" /></a></span>
       <div class="content">
