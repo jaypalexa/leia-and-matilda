@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170607_0788_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170607_0788_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>Ghost Girl</h2>
+        <p>After all the exertion of waking up and eating breakfast, Leia sometimes likes to have a morning cuddle.</p>
+		<p>Lately she has been keen on snuggling beneath the covers.</p>
+		<p>She appears to be a spectre in this photo attempt.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170610_0932_matilda_fan.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170610_0932_matilda_fan.jpg" /></a></span>
       <div class="content">
