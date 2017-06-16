@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170605_1912_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170605_1912_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Shameless</h2>
+        <p>Matilda thinks you might not be finished rubbing her belly.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170607_0788_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170607_0788_leia.jpg" /></a></span>
       <div class="content">
