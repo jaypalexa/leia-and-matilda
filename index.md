@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170608_0938_leia_sink1.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170608_0938_leia_sink1.jpg" /></a></span>
+      <div class="content">
+        <h2>A Drink From The Sink</h2>
+        <p>Little Leia lapping it up after a thirst-inducing nap.</p>
+		<p>It has been very hot here, so glad to provide the gals all the water they want.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170605_1912_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170605_1912_matilda.jpg" /></a></span>
       <div class="content">
