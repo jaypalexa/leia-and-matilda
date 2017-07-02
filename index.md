@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170625_1124_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170625_1124_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>A Kitten For Britain</h2>
+        <p>Leia strikes a stately pose on our kitty-proofed futon.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170613_1011_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170613_1011_matilda.jpg" /></a></span>
       <div class="content">
