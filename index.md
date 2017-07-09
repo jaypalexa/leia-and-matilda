@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170707_1830_leia_and_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170707_1830_leia_and_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Air Meal</h2>
+        <p>To keep up with the kitties demanding feeding schedule, we are exploring new and automated delivery mechanisms.</p>
+		<p>Here is a drone's-eye view of one possibility.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170625_1124_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170625_1124_leia.jpg" /></a></span>
       <div class="content">
