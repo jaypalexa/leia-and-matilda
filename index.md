@@ -10,7 +10,8 @@ description: A photo essay by Leia and Matilda
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170707_1820_leia_and_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170707_1820_leia_and_matilda.jpg" /></a></span>
       <div class="content">
         <h2>None Shall Pass</h2>
-        <p>Oh, so you want to pop to the loo, do you?  That will only cost you a tiny smidgen of pâté, payable now.</p>
+        <p>Oh, so you want to pop to the loo, do you?</p>
+		<p>That will only cost you a tiny smidgen of pâté, payable now.</p>
       </div>
     </article>
     <article class="feature right">
