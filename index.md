@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170722_1309_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170722_1309_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Reigning Champion</h2>
+        <p>Inspired by the cold and rainy weather this weekend, we thought we would challenge the cats to a game of "Who Can Sleep The Longest?"</p>
+		<p>We lost.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170707_1820_leia_and_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170707_1820_leia_and_matilda.jpg" /></a></span>
       <div class="content">
