@@ -6,12 +6,20 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170718_1118_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170718_1118_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>Working Class Cat</h2>
+        <p>Leia likes to help me when I am working from home.</p>
+		<p>Hey, wait, is that food?</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170722_1309_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170722_1309_matilda.jpg" /></a></span>
       <div class="content">
         <h2>Reigning Champion</h2>
         <p>Inspired by the cold and rainy weather this weekend, we thought we would challenge the cats to a game of "Who Can Sleep The Longest?"</p>
-		<p>We lost.</p>
+		<p>We lost.  Matilda won.</p>
       </div>
     </article>
     <article class="feature left">
@@ -35,6 +43,7 @@ description: A photo essay by Leia and Matilda
       <div class="content">
         <h2>A Kitten For Britain</h2>
         <p>Leia strikes a stately pose on our kitty-proofed futon.</p>
+        <p>I think she voted UKIT.</p>
       </div>
     </article>
     <article class="feature right">
