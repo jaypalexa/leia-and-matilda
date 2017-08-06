@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180804_1903_jose.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180804_1903_jose.jpg" /></a></span>
+      <div class="content">
+        <h2>No Ordinary Black Cat</h2>
+        <p>A tribute post and toast to my uncle's cat, José.  May he rest in peace.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170718_1118_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170718_1118_leia.jpg" /></a></span>
       <div class="content">
