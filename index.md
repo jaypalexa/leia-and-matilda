@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170728_2306_leia_and_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170728_2306_leia_and_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Yin-Yang Brekkies</h2>
+        <p>Wikipedia explains "In Chinese philosophy, yin and yang (陰陽 yīnyáng, lit. "dark-bright", "negative-positive") describe how seemingly opposite or contrary forces may actually be complementary, interconnected, and interdependent in the natural world, and how they may give rise to each other as they interrelate to one another."</p>
+		<p>Or how, when breakfast is involved, it is every cat for herself.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180804_1903_jose.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180804_1903_jose.jpg" /></a></span>
       <div class="content">
