@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170816_1100_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170816_1100_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Matilda Black</h2>
+        <p>Hard to see most of Matilda when she naps on the ottoman.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170728_2306_leia_and_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170728_2306_leia_and_matilda.jpg" /></a></span>
       <div class="content">
