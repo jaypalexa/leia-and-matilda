@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170821_1857_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170821_1857_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>Old Kit Bag</h2>
+        <p>Not sure if Leia ever met a bag she didn't like.</p>
+        <p>Funny thing is, this bag has been in the same spot for weeks.  She just decided recently to pop in, silly girl.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170816_1100_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170816_1100_matilda.jpg" /></a></span>
       <div class="content">
