@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170830_1903_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170830_1903_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Raining Cats (Not Dogs)</h2>
+        <p>Matilda sheltering under a drying brolly.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170821_1857_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170821_1857_leia.jpg" /></a></span>
       <div class="content">
@@ -30,7 +37,7 @@ description: A photo essay by Leia and Matilda
       </div>
     </article>
     <article class="feature right">
-      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180804_1903_jose.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180804_1903_jose.jpg" /></a></span>
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170804_1903_jose.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170804_1903_jose.jpg" /></a></span>
       <div class="content">
         <h2>No Ordinary Black Cat</h2>
         <p>A tribute post and toast to my uncle's cat, José.  May he rest in peace.</p>
