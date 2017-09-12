@@ -6,6 +6,22 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_leia_matilda_19th_birthday.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_leia_matilda_19th_birthday.jpg" /></a></span>
+      <div class="content">
+        <h2>38 Years Young</h2>
+        <p>We celebrated 19th birthdays for Leia and Matilda last night.</p>
+        <p>Cooked chicken was the treat of choice followed by an inspection of cake (we might have helped finish that off).</p>
+		<p>Cards and candles were largely ignored.  Post-gorging naps followed.</p>
+		<p>Here's to a happy and healthy 20th year!</p>
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_2106_birthday_treats.jpg">Birthday Treats</a><br />
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_2107_matilda_leia_birthday_snacks.jpg">Diving Into Chicken</a><br />
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_2108_matilda_leia_birthday_snacks.jpg">Still Diving</a><br />
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_2108_leia_birthday_closeup.jpg">Leia With A Mouthful</a><br />
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_2110_matilda_wants_more_chicken.jpg">Matilda Wants More</a><br />
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_2108_matilda_leia_now_the_cake.jpg">Oh, There's Cake!</a><br />
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170830_1903_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170830_1903_matilda.jpg" /></a></span>
       <div class="content">
