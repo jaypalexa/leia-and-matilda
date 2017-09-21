@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170903_1229_matilda_and_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170903_1229_matilda_and_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>Bed Buddies</h2>
+        <p>We are off to the States to visit family for a week or so.</p>
+		<p>Well, at least one of us is.  Not sure Matilda and Leia are going to let Tracy come along.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_leia_matilda_19th_birthday.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170911_leia_matilda_19th_birthday.jpg" /></a></span>
       <div class="content">
