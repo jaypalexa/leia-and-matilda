@@ -6,6 +6,18 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171021_losing_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171021_losing_leia.jpg" /></a></span>
+      <div class="content">
+        <h2>Losing Leia</h2>
+        <p>Gutting news.  After observing a marked decline in Leia’s physical health, we consulted the vet who agreed it was best to let her go.  We were both with her at the end.</p>
+        <p>Leia was such a sweet little spirit who bounced her way into our hearts, and we miss her achingly.  We are so much better for having known her.</p>
+		<p>Matilda remains loving and fine, and her presence helps fill the void a wee bit.  She is getting lots of extra strokes and cuddles.</p>
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171021_1052_leia.jpg">At The Window</a><br />
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171021_1100_leia.jpg">In The Chair</a><br />
+		<a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171021_1308_leia.jpg">Chicken Treat</a><br />
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170903_1229_matilda_and_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170903_1229_matilda_and_leia.jpg" /></a></span>
       <div class="content">
