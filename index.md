@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_1519_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_1519_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Settling In Just Fine</h2>
+        <p>We moved into a new place a few weeks ago.  We were anxious about Matilda as we left her to go on a two-week trip just after losing Leia.</p>
+		<p>Looks as though we need not have worried.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171021_losing_leia.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171021_losing_leia.jpg" /></a></span>
       <div class="content">
