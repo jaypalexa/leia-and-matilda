@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_2204_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_2204_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>A Cat's Lick</h2>
+        <p>Matilda making sure the shower is clean.  Apparently three mugs of water around the house are not quite enough.</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_1519_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_1519_matilda.jpg" /></a></span>
       <div class="content">
