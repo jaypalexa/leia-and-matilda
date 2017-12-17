@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_1519_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_1519_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Mia and Matilda and Monopoly</h2>
+        <p>Matilda had a very nice holiday visit from Mia and Kelly yesterday.</p>
+		<p>Chicken snacks were gobbled, and one particularly fuzzy belly got plenty of rubbing.</p>
+		<p>Matilda is looking for her Monopoly partner now though!</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_2204_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171119_2204_matilda.jpg" /></a></span>
       <div class="content">
