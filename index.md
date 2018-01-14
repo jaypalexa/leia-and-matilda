@@ -6,6 +6,14 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180104_1200_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180104_1200_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Stuff on Stuff</h2>
+        <p>Matilda likes to be on stuff...which is on top of other stuff...</p>
+		<p>Bonus: A prime spot to watch birdies.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20171229_2355_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20171229_2355_matilda.jpg" /></a></span>
       <div class="content">
