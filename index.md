@@ -6,6 +6,13 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180103_2014_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180103_2014_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Rock=a=bye Tilda</h2>
+        <p>Oh, the indignity!  Wait, I get a belly rub out of this?  Well, okay then...</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180104_1200_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180104_1200_matilda.jpg" /></a></span>
       <div class="content">
