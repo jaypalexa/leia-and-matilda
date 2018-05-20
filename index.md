@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature left">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180511_0853_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180511_0853_matilda.jpg" /></a></span>
+      <div class="content">
+        <h2>Matty's Morning Mug</h2>
+        <p>Filling the mug with fresh water, part of the morning routine.  Matilda here performing her inspection.</p>
+		<p>Poor thing had a major wobble at the end of April but seems to have rebounded and is riding (mostly) steady on a new plateau.</p>
+		<p>She has been especially cuddly lately, and we have been more than happy to oblige!</p>
+      </div>
+    </article>
     <article class="feature right">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180226_1816_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180226_1816_matilda.jpg" /></a></span>
       <div class="content">
