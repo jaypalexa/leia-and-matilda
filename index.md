@@ -7,7 +7,7 @@ description: A photo essay by Leia and Matilda
 <section id="one" class="wrapper style1">
   <div class="inner">
     <article class="feature right">
-      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180627_victoria_pub_puppy.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180627_victoria_pub_puppy.jpg" /></a></span>
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180701_dog_days.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180701_dog_days.jpg" /></a></span>
       <div class="content">
         <h2>Dog Days</h2>
         <p>Been awfully warm and muggy all spring.  Summer has no intention of letting up.</p>
