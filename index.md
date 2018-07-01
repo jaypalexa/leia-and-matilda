@@ -6,6 +6,15 @@ description: A photo essay by Leia and Matilda
 ---
 <section id="one" class="wrapper style1">
   <div class="inner">
+    <article class="feature right">
+      <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180627_victoria_pub_puppy.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180627_victoria_pub_puppy.jpg" /></a></span>
+      <div class="content">
+        <h2>Dog Days</h2>
+        <p>Been awfully warm and muggy all spring.  Summer has no intention of letting up.</p>
+        <p>Matilda and this pub puppy have the same idea.  They don't realize how good they have it.</p>
+        <p>I am off to India for work for a fortnight.  Can't wait to experience heat and humidity at a whole new level.  Ugh.</p>
+      </div>
+    </article>
     <article class="feature left">
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180511_0853_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180511_0853_matilda.jpg" /></a></span>
       <div class="content">
