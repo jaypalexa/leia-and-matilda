@@ -10,7 +10,7 @@ description: A photo essay by Leia and Matilda
       <span class="image"><a href="{{ site.url }}{{ site.baseurl }}/assets/images/20180729_1451_matilda.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20180729_1451_matilda.jpg" /></a></span>
       <div class="content">
         <h2>The Sad and Inevitable</h2>
-		<p><em>Still gutted, so just copying the note we just had to send to Kelly and Mia:</em></p>
+		<p><em>Still gutted, so just copying the note we sent to Kelly and Mia:</em></p>
         <p>The sad and inevitable has finally transpired:  With a shattered heart I bear news of Matilda's passing.</p>
 		<p>There was an "episode" in April (mini-stroke?) characterized by general confusion, loss of stability, and an inability to stand / get into the litter box.  It was sudden, and we scrambled to get things arranged with the vet for the next day.  Just as suddenly, when morning arrived, Matilda had rebounded (almost completely), so we called things off with the vet.</p>
 		<p>During the past three months, however, we witnessed a slow decline in Matilda's functionality and activity.  She stopped coming upstairs, started restricting herself to just the ottoman/futon, and basically just seemed to be winding down.</p>
